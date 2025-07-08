@@ -1,12 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Jin Nguyen 👋
+I'm a student studying **Computer Science** and passionate about software engineering, building websites and web applications, and learning new technologies.
 
+## 🌱 I’m currently learning
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Full Stack Web Development
+
+## 🛠 Projects I’m working on
+* Personal portfolio website
+* Customer Tracking Database For Businesses
+* Song Organizer for DJ Sets
+
+## 🎯 Goals
+* Seeking internship opportunities in **software engineering**
+* Building and deploying full-stack applications
+* Prepping for technical interviews
+
+  
 <!--
-**jinuine505/jinuine505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
